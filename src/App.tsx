@@ -1,5 +1,11 @@
+import MainCard from "./components/MainCard";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <>
+      <MainCard />
+    </>
+  );
 };
 
 export default App;
