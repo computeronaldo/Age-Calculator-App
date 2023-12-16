@@ -2,4 +2,7 @@
   width: 50%;
   margin: 3rem auto;
   background-color: white;
+  padding: 2rem 1rem;
+  border-radius: 12px;
+  border-bottom-right-radius: 100px;
 }
